@@ -1,2 +1,2 @@
 # ML-PROJECT-JUNE
-Predicting Diabetes Mellitus with Machine Learning Techniques
+Preprocessed diagnostic health data and built predictive models (Logistic Regression, SVM, KNN) to classify diabetes, achieving highest accuracy with SVM.
